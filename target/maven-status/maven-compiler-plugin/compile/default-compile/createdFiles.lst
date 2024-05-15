@@ -1,0 +1,7 @@
+com\emergentes\utiles\ConexionBD.class
+com\emergentes\controlador\PostController.class
+com\emergentes\dao\PostDAOimpl.class
+com\emergentes\dao\PostDAO.class
+com\emergentes\modelo\Post.class
+com\emergentes\p4_daoblog\resources\JakartaEE8Resource.class
+com\emergentes\p4_daoblog\JakartaRestConfiguration.class
